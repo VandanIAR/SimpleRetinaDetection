@@ -85,19 +85,6 @@ Run `Main.java`. Output example:
 
 ---
 
-## 📷 Dataset Suggestion
-
-Use free retina datasets like:
-- [DRIVE Dataset](https://drive.grand-challenge.org/)
-- [STARE Project](https://cecas.clemson.edu/~ahoover/stare/)
-
----
-
-## 📃 License
-
-MIT License. For academic or learning purposes only.
-
----
 
 ## ✨ Made By
 
