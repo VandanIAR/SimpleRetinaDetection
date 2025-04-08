@@ -16,9 +16,9 @@ This is a simple prototype for retina recognition built using **Java** and **Ope
 
 ```
 RetinaRecognitionJava/
-├── src/
-│   ├── Main.java              # Main class that runs the program
-│   └── RetinaMatcher.java     # Core image matching logic
+
+├── Main.java              # Main class that runs the program
+├── RetinaMatcher.java     # Core image matching logic
 ├── images/
 │   ├── retina1.jpg            # First retina image (input)
 │   └── retina2.jpg            # Second retina image (input)
